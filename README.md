@@ -75,4 +75,4 @@
 |43|Deniz Gokmen|10|denizgokmen|<https://github.com/denizgokmen/my_website.git>|<https://deniz-portfolio.netlify.app>|2020-10-06|
 |44|Konstantin Pinkl|36|kpinkl|<https://github.com/kpinkl/my_website>|<https://konstantinpinkl.netlify.app/>|2020-10-06|
 |45|Emmanuel Van Lembergen |1| EmmanuelVL|https://github.com/EmmanuelVL/my_website.git|2020-10-06|
-|46|Leonie von Loeper|20|Leonielvl|<https://github.com/leonielvl/my_website>|<https://leonievonloeper.netlify.app/>|2020-10-06|
+|46|Katherine Lin|1|kthrlynn|<https://github.com/kthrlynn/repos1>|<https://katherine-lin-portfolio.netlify.app>|2020-10-06|
